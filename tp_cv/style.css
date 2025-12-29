@@ -25,3 +25,8 @@
     font-size: 38px;
     border-bottom: 2px solid rgb(220, 228, 242);
 }
+
+.lightZone section section h1{
+    border: 0;
+    font-size: 20px;
+}
