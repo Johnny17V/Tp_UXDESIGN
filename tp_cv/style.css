@@ -30,3 +30,13 @@
     border: 0;
     font-size: 20px;
 }
+
+@font-face {
+    font-family: "Sensation_Regular";
+    src: url('../sansation/Sansation_Regular.ttf') format('truetype');
+}
+
+header span{
+    font-size: 38px;
+    font-family: Sensation_Regular;
+}
