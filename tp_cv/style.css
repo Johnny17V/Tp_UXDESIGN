@@ -61,3 +61,8 @@ header span{
 }
 
 
+@media screen and (min-width: 992px) {
+    header > :nth-child(2){
+        order: 3;
+    }
+}
